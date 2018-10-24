@@ -1,2 +1,2 @@
-# username.github.io
+# wpf-playground
 Test Repo
