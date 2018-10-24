@@ -1,1 +1,14 @@
 C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\bin\Debug\wpf-playground.exe.config
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\bin\Debug\wpf-playground.exe
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\bin\Debug\wpf-playground.pdb
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\wpf-playground.csprojResolveAssemblyReference.cache
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\App.g.cs
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\wpf-playground_MarkupCompile.cache
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\wpf-playground_MarkupCompile.lref
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\wpf-playground.g.resources
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\wpf_playground.Properties.Resources.resources
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\wpf-playground.csproj.GenerateResource.Cache
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\wpf-playground.exe
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\wpf-playground.pdb
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\wpf-playground\obj\Debug\Views\Windows\MainWindow.baml
