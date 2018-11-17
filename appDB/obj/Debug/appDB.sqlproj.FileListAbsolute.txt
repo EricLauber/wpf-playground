@@ -1,0 +1,9 @@
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\bin\Debug\appDB.dacpac
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\obj\Debug\Model.xml
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\obj\Debug\refactor.xml
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\obj\Debug\postdeploy.sql
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\obj\Debug\predeploy.sql
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\obj\Debug\appDB.dll
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\obj\Debug\appDB.pdb
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\bin\Debug\appDB.dll
+C:\Users\elauber\Source\Repos\EricLauber\wpf-playground\appDB\bin\Debug\appDB.pdb
